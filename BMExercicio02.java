@@ -6,7 +6,7 @@ class BMExercicio02 {
         float p = 20.0f;
         double q = 30.0;
         boolean b = true;
-        char c = "k";
+        char c = 'k';
     } 
 
 }
