@@ -1,4 +1,4 @@
-Questão 1
+Questão 1 - BMExercicio 1
 
 * a) (F) byte x = 300;
 * b) (V) short $mom = 43;
@@ -11,7 +11,7 @@ Questão 1
 * i) (F) float x = 2.7;
 * j) (F) int a = false;
 
-Questão 4
+Questão 4 - BMExercicio 4
 
 BMExercio04.java:12: error: incompatible types: possible lossy conversion from double to float<br>
 float x = 2.7;<br>
